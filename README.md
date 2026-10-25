@@ -229,4 +229,4 @@ Canvas is available as a complete free version, with all features and updates in
 Download Canvas today and elevate your illustration projects to the next level!
 
 ---
-**Last updated:** 2026-10-25 20:34:04 UTC
+**Last updated:** 2026-10-25 22:56:32 UTC
